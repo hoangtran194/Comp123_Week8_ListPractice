@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Comp123_Week8_ListPractice
 {
-    public partial class Form1 : Form
+    public partial class Lesson9Form : Form
     {
-        public Form1()
+        public Lesson9Form()
         {
             InitializeComponent();
         }
